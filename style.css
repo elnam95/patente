@@ -1,0 +1,12 @@
+/* Centrar solo los títulos principales (h1 y h2) */
+h1, h2 {
+    text-align: center;
+}
+/* Centrar los títulos h3 */
+h3 {
+    text-align: center;
+}
+/* Centrar las imágenes dentro de las etiquetas figure */
+figure {
+    text-align: center;
+}
